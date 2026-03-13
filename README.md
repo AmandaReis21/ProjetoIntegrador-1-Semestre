@@ -32,13 +32,13 @@ dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviç
 | ...   | -      | ...                                                                                                                                                     | ...        | ...        |
 
 
-# Competências Desenvolvidas
+## Tecnologias Utilizadas
 
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 23/04/2026 | a fazer  | [MVP](MVP)  |
+| 02                | 14/05/2026 | a fazer  | [MVP](MVP)  |
+| 03                | 04/06/2026 | a fazer  | [MVP](MVP)  |
+| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
