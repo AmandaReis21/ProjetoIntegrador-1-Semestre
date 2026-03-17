@@ -8,7 +8,7 @@ Controle de versão do artefatos do Projeto, em que
 - [Competências Desenvolvidas](#competências-do-projeto)
 - [Registro das Sprints](#registro-das-sprints)
 # Projeto 
-Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP
+Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de São Paulo.
 # Objetivo do Projeto
 O principal objetivo é desenvolver uma plataforma BI, que permita visualizar informações sobre o desempenho de municípios do Estado de São Paulo no comércio exterior, com base nos
 dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Desta forma, essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional.
