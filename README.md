@@ -29,7 +29,7 @@ dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviç
 # Backlog do Produto
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| ...   | -      | ...                                                                                                                                                     | ...        | ...        |
+| ...   | -      | Como scretário da Secretaria de Desenvolvimento Econômico...                                                                                                                                                     | ...        | ...        |
 | ...   | -      | ...                                                                                                                                                     | ...        | ...        |
 | ...   | -      | ...                                                                                                                                                     | ...        | ...        |
 | ...   | -      | ...                                                                                                                                                     | ...        | ...        |
