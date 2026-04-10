@@ -25,6 +25,7 @@ dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviç
 ## Tecnologias Utilizadas
 - Colab
 - Github
+- Power BI
 # Backlog do Produto
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
