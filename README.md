@@ -1,5 +1,5 @@
-# Aprendizado por Projeto Integrador (API) 
-Controle de versão do artefatos do Projeto, em que 
+# Aprendizado por Projeto Integrador (API) - Rosa dos Ventos Log
+Controle de versão do artefatos do Projeto
 # Índice
 - [Projeto](#projeto)
 - [Objetivo do Projeto](#objetivo-do-projeto)
