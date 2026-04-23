@@ -10,3 +10,4 @@
 | 6 | Alta | Como Secretário de Desenvolvimento, quero identificar o índice de dependência de parceiros comerciais específicos, para formular estratégias de diversificação de mercado e reduzir riscos econômicos para o estado de São Paulo. | ... | 3 |
 
 # Relatório da Sprint 3
+Link:
