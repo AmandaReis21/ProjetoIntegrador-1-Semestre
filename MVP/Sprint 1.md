@@ -8,5 +8,6 @@
 | 9   | Média  | Como Secretário de Desenvolvimento, espero que haja uma aplicação de filtros por código de município (São José dos Campos) e Unidade Federativa (SP) no Power BI, para reduzir o volume de dados conforme a demanda.                                                                                                                                                     | ...        | 1        |
 | 10  | Baixa  | Como Secretário de Desenvolvimento, quero uma base de dados em Phyton sem inconsistências, com padronização e filtragem das informações relevantes.                                                                                                                                                     | ...        | 1        |
 | 11  | Baixa  | Como Secretário de Desenvolvimento, quero a análise dos 5 municípios com maior PIB de SP em relação ao PIB de São José dos Campos via Python, para identificar se a riqueza produzida localmente se reflete em protagonismo exportador.                                                                                                                                                   | ...        | 1        |
-# Relatório da Sprint 1
-Link: 
+# Relatório da Sprint I
+
+[Acesse aqui](https://docs.google.com/document/d/1tMIIXrej4HoCgsixNJUNMlka54C87PoHAOFCv_jT-6w/edit?usp=sharing)
