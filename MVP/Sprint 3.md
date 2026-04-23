@@ -8,3 +8,5 @@
 | 4 | Alta | Como Secretário de Desenvolvimento, quero identificar o Market Share dos principais países de exportação no dashboard para planejar missões comerciais e parcerias para internacionais focadas nos maiores compradores. | ... | 3 |
 | 5 | Alta | Como Secretário de Desenvolvimento, quero visualizar a sazonalidade das exportações por categoria de produto, para planejar políticas de apoio às empresas locais em períodos de baixa demanda. | ... | 3 |
 | 6 | Alta | Como Secretário de Desenvolvimento, quero identificar o índice de dependência de parceiros comerciais específicos, para formular estratégias de diversificação de mercado e reduzir riscos econômicos para o estado de São Paulo. | ... | 3 |
+
+# Relatório da Sprint 3
