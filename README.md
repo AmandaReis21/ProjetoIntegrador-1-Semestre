@@ -5,7 +5,7 @@ Controle de versão do artefatos do Projeto
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Equipe](#equipe)
 - [Backlog do Produto](#backlog-do-produto)
-- [Competências Desenvolvidas](#competências-do-projeto)
+- [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
 # Projeto 
 Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de São Paulo.
