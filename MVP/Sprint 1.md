@@ -32,17 +32,18 @@
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa:
 - Será trabalhado valores de exportação e importação entre munícipios paulistas, por meio de uma triagem efetiva que sinaliza as cinco metrópoles de maiores nívels de fluxos de mercadoria, na busca por compreender a concentração de riquezes e movimentação de produtos na comparação desses dados.
-- Funcionalidades principais incluídas:  
+- Funcionalidades principais incluídas:  Criar cartões de indicadores com o total de exportações e importações dos munícipios em um dashboard, aplicar filtros por código de munícipio (São José dos Campos) e Unidade Federatvia (SP) no power BI, criar uma base de dados em phyton sem inconsistências e padronização de filtragem das informações relevantes e por fim, uma análise dos 5 munícipios com maior PIB de SP em relação ao PIB da cidade de São José dos Campos.
 - Limitações conhecidas:
   A variável de dados com base na comparação de cidades distintas populacional e tecnológicamente e a base de dados utilizadas em períodos desproporcionais, uma vez que o ano de 2026 está acontecendo, impactando diretamente nas informações dos gráficos entre os anos escolhidos (2022-2026).
-- Escopo reduzido: (somente o essencial para validar a ideia)  
+- Escopo reduzido: (somente o essencial para validar a ideia)
+Criação de gráficos com base na leitura dos dados das respectivas cidades escolhidas.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Secretário de Desenvolvimento:**
+- Atender às necessidades de observação e compreensão de indicadores do total de exportação e importação dos munícipios escolhidos para validar o desempenho econômico municipal.
+- Aplicar filtros por código de São José dos Campos e o estado de São Paulo
 
 
 ## 📊 Critérios de Aceitação
