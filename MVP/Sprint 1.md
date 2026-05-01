@@ -47,9 +47,9 @@ Criação de gráficos com base na leitura dos dados das respectivas cidades esc
 
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário observe com clareza as mudanças ocorridas em um determinado período.
+- O sistema deve registrar a movimentação de dados de exportação e importação, assim como a diversidade de produtos no decorrer dos anos.
+- Métricas coletadas: Dados de produtos, números brutos de importação e exportação.
 
 ---
 
@@ -61,10 +61,9 @@ Criação de gráficos com base na leitura dos dados das respectivas cidades esc
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+- Melhorar gráfico, centralizando o foco para anos inteiros.
+- Limpeza de dados mais objetivos.
+- Maior colaboração e inclusão entre os membros.
 ---
 
 ## 📂 Anexos / Evidências
