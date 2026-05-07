@@ -41,9 +41,8 @@ Criação de gráficos com base na leitura dos dados das respectivas cidades esc
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Secretário de Desenvolvimento:**
-- Atender às necessidades de observação e compreensão de indicadores do total de exportação e importação dos munícipios escolhidos para validar o desempenho econômico municipal.
-- Aplicar filtros por código de São José dos Campos e o estado de São Paulo
+- **Secretário de Desenvolvimento:** Atender às necessidades de observação e compreensão de indicadores do total de exportação e importação dos munícipios escolhidos para validar o desempenho econômico municipal. 
+- **Secretário de Desenvolvimento:** Aplicar filtros por código de São José dos Campos e o estado de São Paulo
 
 
 ## 📊 Critérios de Aceitação
