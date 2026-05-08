@@ -15,44 +15,37 @@ Link:
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP: Edificar uma plataforma de dados logísticos e comerciais fundamentados em dados reais. 
 - Qual problema resolve?  Viabilizar os fluxos , identificando gargalos, isto é, localizando a etapa mais lenta de um processo produtivo que limita a capacidadetotal da produção e vendas e oportunidades de investimento nas infraestruturas.
-- Qual hipótese será validada? 
-- Qual valor será entregue ao usuário final?
+- Qual hipótese será validada? Ser possível criar um pipeline confiável utilizando de ferramentas acessíveis e se a visualização interativa no Power BI é mais útil para a comunicação dos dados.
+- Qual valor será entregue ao usuário final? Agilidade na tomada de decisões e a identificação dos fluxos.
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.
 - Funcionalidades principais incluídas  
-- Limitações conhecidas: 
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Limitações conhecidas: A versão grauita do power BI tem limitação de suporte de dados, descrições de produtos genéricos ou erros de preenchimentos de modais e o tempo entre a leitura dos dados para o momento atual idealizado.
+- Escopo reduzido (somente o essencial para validar a ideia):
+- Processar os dados da região e Estado (Filtro Geográfico)
+- Focar nas colunas citadas.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
----
-
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
----
-
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+- **Secretário de Desenvolvimento:**
+- Identificar os principais modais e fluxos logísticos por meio de categorização das movimentações por Estado (UF) e tipo de rotas (modais) de transporte.
+- Ser possível criar visualizações interativas da balança comercial.
+- Assegurar que cálculos de cubagem e de logística futura sejam precisos.
+--
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário idealize os dados encontrados para compreender a dinâmica de exportação e importação. 
+- O sistema deve registrar os principais modais utilizados e dados reais da logística dos produtos.
+- Métricas coletadas:
+- Métricas de Qualidade de Dados
+- Métricas Logísticas e de Volume
+- Métricas de Valor Econômico
+ 
 
 ---
 
@@ -64,13 +57,9 @@ Link:
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Automatização e Pipeline de Dados
+- Refinamento Analítico
+- Visualização
 
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
