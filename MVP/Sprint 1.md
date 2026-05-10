@@ -65,6 +65,3 @@ Criação de gráficos com base na leitura dos dados das respectivas cidades esc
 - Maior colaboração e inclusão entre os membros.
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos
