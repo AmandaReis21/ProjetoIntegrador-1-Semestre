@@ -42,9 +42,9 @@ Link:
 - O MVP deve permitir que o usuário idealize os dados encontrados para compreender a dinâmica de exportação e importação. 
 - O sistema deve registrar os principais modais utilizados e dados reais da logística dos produtos.
 - Métricas coletadas:
-- Métricas de Qualidade de Dados
-- Métricas Logísticas e de Volume
-- Métricas de Valor Econômico
+ Métricas de Qualidade de Dados
+ Métricas Logísticas e de Volume
+ Métricas de Valor Econômico
  
 
 ---
