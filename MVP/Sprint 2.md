@@ -24,8 +24,8 @@ Link:
 - Funcionalidades principais incluídas  
 - Limitações conhecidas: A versão grauita do power BI tem limitação de suporte de dados, descrições de produtos genéricos ou erros de preenchimentos de modais e o tempo entre a leitura dos dados para o momento atual idealizado.
 - Escopo reduzido (somente o essencial para validar a ideia):
-- Processar os dados da região e Estado (Filtro Geográfico)
-- Focar nas colunas citadas.
+  > Processar os dados da região e Estado (Filtro Geográfico)
+  >Focar nas colunas citadas.
 
 ---
 
