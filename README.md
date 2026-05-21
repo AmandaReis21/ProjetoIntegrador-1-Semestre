@@ -1,5 +1,5 @@
 # Rosa dos Ventos Log - Aprendizado por Projeto Integrador (API) 
-Controle de versão do artefatos do Projeto
+Controle de versionamento dos artefatos do Projeto Integrador, em que o principal objetivo é desenvolver uma plataforma BI, que permita visualizar informações sobre o desempenho de municípios do Estado de São Paulo no comércio exterior.
 # Índice
 - [Projeto](#projeto)
 - [Objetivo do Projeto](#objetivo-do-projeto)
