@@ -37,7 +37,6 @@ Link:
 - Identificar os principais modais e fluxos logísticos por meio de categorização das movimentações por Estado (UF) e tipo de rotas (modais) de transporte.
 - Ser possível criar visualizações interativas da balança comercial.
 - Assegurar que cálculos de cubagem e de logística futura sejam precisos.
---
 
 ---
 
