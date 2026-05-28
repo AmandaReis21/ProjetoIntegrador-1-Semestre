@@ -13,7 +13,7 @@
 # Relatório da Sprint 2
 Link:
 
-# 📌 MVP - [???]
+# 📌 MVP - [Acompanhamento de Resultados de Exportação e Importação]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP: Edificar uma plataforma de dados logísticos e comerciais fundamentados em dados reais. 
