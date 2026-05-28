@@ -17,15 +17,14 @@ Link:
 
 ## 🎯 Objetivo do MVP 
 - Qual problema resolve?
-- Viabilizar os fluxos , identificando gargalos, isto é, localizando a etapa mais lenta de um processo produtivo que limita a capacidadetotal da produção e vendas e oportunidades de investimento nas infraestruturas.
+  > Viabilizar os fluxos , identificando gargalos, isto é, localizando a etapa mais lenta de um processo produtivo que limita a capacidadetotal da produção e vendas e oportunidades de investimento nas infraestruturas.
 - Qual hipótese será validada?
-  . Ser possível criar um pipeline confiável utilizando de ferramentas acessíveis e se a visualização interativa no Power BI é mais útil para a comunicação dos dados.
+  > Ser possível criar um pipeline confiável utilizando de ferramentas acessíveis e se a visualização interativa no Power BI é mais útil para a comunicação dos dados.
 - Qual valor será entregue ao usuário final?
-- Agilidade na tomada de decisões e a identificação dos fluxos.
+  > Agilidade na tomada de decisões e a identificação dos fluxos.
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.
 - Funcionalidades principais incluídas  
 - Limitações conhecidas: A versão grauita do power BI tem limitação de suporte de dados, descrições de produtos genéricos ou erros de preenchimentos de modais e o tempo entre a leitura dos dados para o momento atual idealizado, além disso encontramos dificuldades para categorizar os gráficos de abril em abril, pois a plataforme restringe a escolha das datas.
 - Escopo reduzido:
