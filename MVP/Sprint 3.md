@@ -24,10 +24,12 @@ Link:
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
+- Funcionalidades principais incluídas
+  > Criação de dashboards para melhor observação no Power BI, identificar produtos e suas quantidades em gráficos no collab e dados em Python. 
+- Limitações conhecidas
+  > A concentração de diversidade de produtos trabalhados e seus respectivos departamentos e a determinação da sazonalidade dos produtos.
 - Escopo reduzido (somente o essencial para validar a ideia)  
-
+> Focar nos dados obtidos, idealizar um ranking dos países e produtos trabalhados e criar um Market Share com a mesma base de dados coletada. 
 ---
 
 ## 👥 Personas / Usuários-Alvo
