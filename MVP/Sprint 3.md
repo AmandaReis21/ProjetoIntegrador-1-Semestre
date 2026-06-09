@@ -65,6 +65,5 @@ Link:
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP) 
+- 5W2H DE TODAS AS SPRINTS:
+- FERRAMENTAS UTILIZADAS: Power BI, Collab, Excel
