@@ -33,9 +33,10 @@ Link:
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Secretário de Desenvolvimento:**  Visualização de rankings de países parceiros e produtos movimentados, atendidas através de dashboards.
+ - **Secretário de Desenvolvimento:** Necessidade de um Market Share feito pelo Power BI.  
+- **Secretário de Desenvolvimento:** Entender e visualizar a sazonalidade das exportações por produto, também por meio de Business Inteligence.
+- **Secretário de Desenvolvimento:** Compreender a precisão de dependência dos parceiros comerciais, feito igualmente no BI.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
