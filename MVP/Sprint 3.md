@@ -65,5 +65,6 @@ Link:
 ---
 
 ## 📂 Anexos / Evidências
-- 5W2H DE TODAS AS SPRINTS:
+- 5W2H DE TODAS AS SPRINTS:[API - 5W2H.xlsx](https://github.com/user-attachments/files/28767454/API.-.5W2H.xlsx)
+
 - FERRAMENTAS UTILIZADAS: Power BI, Collab, Excel
