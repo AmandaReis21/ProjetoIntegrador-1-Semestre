@@ -41,18 +41,12 @@ Link:
 
 
 
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário veja de maneira rápida e simplificada todo processo e produção feito para a conclusão final do racíocinio
+- O sistema deve registrar os números encontrados e o enfoque nas informações procuradas. 
+- Métricas coletadas: Os príncipais países, os principais produtos e taxas. 
 
 ---
 
