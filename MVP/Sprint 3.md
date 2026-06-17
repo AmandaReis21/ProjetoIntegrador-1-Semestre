@@ -11,7 +11,7 @@
 
 # Relatório da Sprint 3
 Link:
-# 📌 MVP - [??]
+# 📌 MVP - [Índices e Sazonalidade Global e Previsão para Anos Seguintes]
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?
