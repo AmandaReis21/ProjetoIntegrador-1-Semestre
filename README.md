@@ -50,5 +50,5 @@ dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviç
 |-------------------|------------|----------|-----------|
 | 01                | 23/04/2026 | Concluído  | [MVP](MVP)  |
 | 02                | 28/05/2026 | A fazer  | [MVP](MVP)  |
-| 03                | 04/06/2026 | A fazer  | [MVP](MVP)  |
+| 03                | 18/06/2026 | A fazer  | [MVP](MVP)  |
 | Feira de Soluções | 25/06/2026 | A fazer  | [MVP](#)  |
