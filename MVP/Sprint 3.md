@@ -11,7 +11,8 @@
 
 # Relatório da Sprint 3
 Link:
-# 📌 MVP - [Índices e Sazonalidade Global e Previsão para Anos Seguintes]
+# 📌 MVP - [Índices e Sazonalidade Global, Análise do Valor Agregado de Carga e Saldo Comercial dos Municípios
+]
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?
