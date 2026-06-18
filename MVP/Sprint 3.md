@@ -10,9 +10,8 @@
 | 6 | Alta | Como Secretário de Desenvolvimento, quero identificar o índice de dependência de parceiros comerciais específicos, para formular estratégias de diversificação de mercado e reduzir riscos econômicos para o estado de São Paulo. | ... | 3 |
 
 # Relatório da Sprint 3
-Link:
-# 📌 MVP - [Índices e Sazonalidade Global, Análise do Valor Agregado de Carga e Saldo Comercial dos Municípios
-]
+Link: [Acesse aqui](https://github.com/user-attachments/files/28767454/Relatório_Técnico_Sprint_3)
+# 📌 MVP - [Índices e Sazonalidade Global, Análise do Valor Agregado de Carga e Saldo Comercial dos Municípios]
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?
