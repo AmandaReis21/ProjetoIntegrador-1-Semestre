@@ -67,6 +67,6 @@ Link:
 
 ---
 ## 📂 Anexos / Evidências
-- 5W2H: [API - 5W2H.xlsx](https://github.com/user-attachments/files/28767454/API.-.5W2H.xlsx)
+- 5W2H: [API - 5W2H.xlsx](https://1drv.ms/x/c/4ca35ab9cf750f06/IQCqwWvYchPWTajafKZr6_ybAcMVYJb9fMHc1wML4qKDKkY?e=1DFaSg)
 
 - FERRAMENTAS UTILIZADAS: Power BI, Collab, Excel
