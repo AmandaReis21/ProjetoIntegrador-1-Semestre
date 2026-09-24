@@ -66,7 +66,6 @@ Criação de gráficos com base na leitura dos dados das respectivas cidades esc
 - Limpeza de dados mais objetivos.
 - Maior colaboração e inclusão entre os membros.
 ---
----
 ## 📂 Anexos / Evidências
 - **5W2H:** [API - 5W2H](https://1drv.ms/x/c/4ca35ab9cf750f06/IQCqwWvYchPWTajafKZr6_ybAcMVYJb9fMHc1wML4qKDKkY?e=1DFaSg)
 
