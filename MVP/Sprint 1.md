@@ -44,21 +44,6 @@ Criação de gráficos com base na leitura dos dados das respectivas cidades esc
 - **Gestor do Observatório:** responsável por definir as expectativas, requisitos e objetivos do projeto, além de acompanhar e avaliar os resultados obtidos. 
 - **Analista de Dados:** responsável pelo tratamento, organização, segregação, padronização e limpeza dos dados, garantindo sua qualidade e adequação para análise.
 - **Pesquisador de Segurança Viária:** responsável por reunir, interpretar e analisar os dados relacionados à segurança viária, buscando compreender os principais indicadores e padrões identificados. 
-
-
-
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário observe com clareza as mudanças ocorridas em um determinado período.
-- O sistema deve registrar a movimentação de dados de exportação e importação, assim como a diversidade de produtos no decorrer dos anos.
-- Métricas coletadas: Dados de produtos, números brutos de importação e exportação.
-
----
-
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
 ---
 
 ## 🚀 Próximos Passos
