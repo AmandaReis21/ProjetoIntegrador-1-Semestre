@@ -41,11 +41,8 @@ Criação de gráficos com base na leitura dos dados das respectivas cidades esc
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Gestor do Observatório:**
-> responsável por definir as expectativas, requisitos e objetivos do projeto, além de acompanhar e avaliar os resultados obtidos. 
-
+- **Gestor do Observatório:** responsável por definir as expectativas, requisitos e objetivos do projeto, além de acompanhar e avaliar os resultados obtidos. 
 - **Analista de Dados:** responsável pelo tratamento, organização, segregação, padronização e limpeza dos dados, garantindo sua qualidade e adequação para análise.
- 
 - **Pesquisador de Segurança Viária:** responsável por reunir, interpretar e analisar os dados relacionados à segurança viária, buscando compreender os principais indicadores e padrões identificados. 
 
 
