@@ -42,6 +42,24 @@ Link:
 
 ---
 
+## 📊 Critérios de Aceitação
+- O MVP deve permitir que o usuário idealize os dados encontrados para compreender a dinâmica de exportação e importação. 
+- O sistema deve registrar os principais modais utilizados e dados reais da logística dos produtos.
+- Métricas coletadas:
+ Métricas de Qualidade de Dados
+ Métricas Logísticas e de Volume
+ Métricas de Valor Econômico
+
+
+---
+
+## 📈 Métricas de Validação
+- Número de usuários que testaram o MVP  
+- Feedback qualitativo (positivo/negativo)  
+- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+
+---
+
 ## 🚀 Próximos Passos
 - Automatização e Pipeline de Dados
 - Refinamento Analítico
@@ -49,6 +67,7 @@ Link:
 
 ---
 ## 📂 Anexos / Evidências
-- 5W2H: [API - 5W2H](https://1drv.ms/x/c/4ca35ab9cf750f06/IQCqwWvYchPWTajafKZr6_ybAcMVYJb9fMHc1wML4qKDKkY?e=1DFaSg)
+- 5W2H DE TODAS AS SPRINTS: [API - 5W2H.xlsx](https://github.com/user-attachments/files/28767454/API.-.5W2H.xlsx)
+- 5W2H: [API - 5W2H.xlsx](https://github.com/user-attachments/files/28767454/API.-.5W2H.xlsx)
 
 - FERRAMENTAS UTILIZADAS: Power BI, Collab, Excel
