@@ -41,8 +41,12 @@ Criação de gráficos com base na leitura dos dados das respectivas cidades esc
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Secretário de Desenvolvimento:** Atender às necessidades de observação e compreensão de indicadores do total de exportação e importação dos munícipios escolhidos para validar o desempenho econômico municipal. 
-- **Secretário de Desenvolvimento:** Aplicar filtros por código de São José dos Campos e o estado de São Paulo
+- **Gestor do Observatório:** responsável por definir as expectativas, requisitos e objetivos do projeto, além de acompanhar e avaliar os resultados obtidos. 
+
+- **Analista de Dados:** responsável pelo tratamento, organização, segregação, padronização e limpeza dos dados, garantindo sua qualidade e adequação para análise.
+ 
+- **Pesquisador de Segurança Viária:** responsável por reunir, interpretar e analisar os dados relacionados à segurança viária, buscando compreender os principais indicadores e padrões identificados. 
+
 
 
 ## 📊 Critérios de Aceitação
